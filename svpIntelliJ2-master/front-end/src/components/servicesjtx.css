@@ -1,0 +1,23 @@
+.services-jtx-component {
+    text-align: center;
+}
+.services-jtx-component-table {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+}
+
+.services-jtx-component-table th {
+    background-color: rgb(103, 156, 255);
+    color: white;
+}
+
+.services-jtx-component-table td, th {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.services-jtx-component-table tr:hover {
+    background-color: #f5f5f5;
+}
+
